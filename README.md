@@ -46,32 +46,17 @@
 
 `Cканирование Metasploitable в режиме SYN`
 
-<img width="795" height="746" alt="Снимок экрана 2026-02-24 в 23 23 28" src="https://github.com/user-attachments/assets/58eacf96-d4a9-47f6-94e9-ea8794f2ad94" />
+<img width="1509" height="859" alt="Снимок экрана 2026-02-25 в 22 30 46" src="https://github.com/user-attachments/assets/03db69ab-cd9d-4663-8761-f0fd49339197" />
 
 `Cканирование Metasploitable в режиме FIN`
 
-<img width="1509" height="859" alt="Снимок экрана 2026-02-25 в 22 30 46" src="https://github.com/user-attachments/assets/b5a46d1d-b8eb-4e11-b34f-8eeee09e8db7" />
+<img width="1395" height="834" alt="Снимок экрана 2026-02-25 в 22 38 01" src="https://github.com/user-attachments/assets/08ffe61e-7706-4586-a0e9-353f7754d160" />
 
+`Cканирование Metasploitable в режиме Xmas`
 
+<img width="1379" height="900" alt="Снимок экрана 2026-02-25 в 23 01 12" src="https://github.com/user-attachments/assets/3893d418-86f7-4b52-a256-30951c0d45aa" />
 
-### Задание 4
+`Cканирование Metasploitable в режиме UDP`
 
-`Приведите ответ в свободной форме........`
+<img width="1379" height="747" alt="Снимок экрана 2026-02-25 в 23 10 33" src="https://github.com/user-attachments/assets/754b9144-a995-42ca-b2f1-43fef5a555c1" />
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
